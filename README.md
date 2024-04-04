@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Catálogo de Gatos Voadores</title>
+    <title>Catálogo de Gatos de botas </title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -41,7 +41,7 @@
 </head>
 <body>
     <header>
-        <h1>Catálogo de Gatos Voadores</h1>
+        <h1>Catálogo de Gatos botas /h1>
     </header>
     <main>
         <div class="cat-card">
@@ -55,7 +55,7 @@
             <img class="cat-image" src="https://via.placeholder.com/200" alt="Gato Voador 2">
             <div class="cat-details">
                 <h2>Gato Voador 2</h2>
-                <p>O Gato Voador 2 é conhecido por suas acrobacias aéreas e por suas habilidades de caça enquanto voa.</p>
+                <p>O Gato de btas    .</p>
             </div>
         </div>
         <!-- Adicione mais gatos voadores conforme necessário -->
